@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# local env
+.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build
+dist/
+
+# prisma
+prisma/migrations/
+
